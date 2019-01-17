@@ -10,3 +10,6 @@ Jonathan sheeha50@msu.edu
 
 Nick Baker
 bakern16@msu.edu
+
+Addison Wood
+woodaddi@msu.edu
