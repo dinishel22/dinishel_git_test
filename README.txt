@@ -7,3 +7,6 @@ What is your programming background?
 C, C++ Python, R, SQL.
 
 Jonathan sheeha50@msu.edu
+
+Nick Baker
+bakern16@msu.edu
