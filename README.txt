@@ -13,3 +13,5 @@ bakern16@msu.edu
 
 Addison Wood
 woodaddi@msu.edu
+
+Todd Lincoln lincolnt@msu.edu
